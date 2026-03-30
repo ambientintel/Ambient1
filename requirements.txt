@@ -4,3 +4,4 @@ matplotlib
 json_fix
 pyserial
 AWSIoTPythonSDK
+pandas
